@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noil</h1>
-<h3 align="center">A money hungry as well as Ai ethusiast developer looking for same mindset people... Founder of Apex alchemy a AI based solution agency</h3>
+<h3 align="center">Ai ethusiast/ developer with a hunger for money looking for same mindset people... Founder of Apex alchemy a AI based solution agency</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noilchitrakar&label=Profile%20views&color=0e75b6&style=flat" alt="noilchitrakar" /> </p>
 
